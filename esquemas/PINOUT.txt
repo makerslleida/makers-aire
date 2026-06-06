@@ -1,1 +1,16 @@
+BME280
 
+Rojo		VCC 	3,3V
+Marron		GND	GND
+Naranja		SCL	GPIO18
+Verde		SDA 	GPIO23
+Amarillo	CSB  	GPIO5
+Naranja		SDO  	GPIO19
+
+SPS30
+
+Negro    VIN      → 5V
+Naranja  GND      → GND
+Rojo     SDA/RX   → GPIO21
+Blanco   SCL/TX   → GPIO22
+Amarillo SEL      → GND
